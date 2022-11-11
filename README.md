@@ -1,5 +1,3 @@
 # SuperCalc
 
-App para Calcular items de supermercado baseado em listas.
-
-
+### App para Calcular items de supermercado baseado em listas.
